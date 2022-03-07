@@ -4,3 +4,5 @@ This public repository tracks my progression through various online courses for 
 1. Tableau eLearning | **Desktop Author Learning Path**  
    - Getting Started with Tableau Desktop
    - Tableau Fundamentals
+2. Coursera | UC Davis | **Data Visualization with Tableau Specialization** (Audit Only)
+   -  Fundamentals of Visualization with Tableau
