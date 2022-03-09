@@ -5,7 +5,7 @@ This public repository tracks my progression through various online courses for 
    - Getting Started with Tableau Desktop
    - Tableau Fundamentals
 2. Tableau eLearning | **Prep Builder**  
-3. Mini Project | Calories, Salt, Sugar, Fat (CSFF) Series
+3. **Mini Project** | Calories, Salt, Sugar, Fat (CSFF) Series
 4. Coursera | UC Davis | **Data Visualization with Tableau Specialization** (Audit Only)
    -  Fundamentals of Visualization with Tableau (in progress)
 5. Coursera | Duke | **Excel to MySQL: Analytic Techniques for Business Specialization** (Audit Only)
