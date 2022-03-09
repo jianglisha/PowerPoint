@@ -1,2 +1,2 @@
 # Portfolio
-Even though I am small now, I am growing quickly. You might be surprised in the near future. 
+Even though I am small now, I am growing quickly. Hopefully, I will delight you in the near future.
